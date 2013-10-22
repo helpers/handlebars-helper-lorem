@@ -1,0 +1,41 @@
+{
+  "name": "handlebars-helper-lorem",
+  "version": "0.1.0",
+  "description": "A Handlebars helper for generating lorem lorem placeholder text.",
+  "homepage": "https://github.com/helpers/handlebars-helper-lorem",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helpers/handlebars-helper-lorem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helpers/handlebars-helper-lorem/issues"
+  },
+  "main": "index.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/helpers/handlebars-helper-lorem/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "lodash": "~2.2.1",
+    "lorem-ipsum": "~0.1.1"
+  },
+  "keywords": [
+    "helper",
+    "lorem",
+    "mixin",
+    "handlebars helper",
+    "underscore mixin",
+    "filter",
+    "template filter",
+    "swig filter",
+    "lodash",
+    "underscore",
+    "convenience methods"
+  ]
+}

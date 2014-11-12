@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-lorem",
-  "version": "0.1.0",
-  "description": "A Handlebars helper for generating lorem lorem placeholder text.",
+  "version": "0.2.0",
+  "description": "Handlebars template helper for generator lorem-ipsum placeholder text.",
   "homepage": "https://github.com/helpers/handlebars-helper-lorem",
   "author": {
     "name": "Jon Schlinkert",
@@ -22,20 +22,40 @@
     }
   ],
   "dependencies": {
-    "lodash": "~2.2.1",
-    "lorem-ipsum": "~0.1.1"
+    "helper-lorem": "^0.1.0"
   },
   "keywords": [
-    "helper",
-    "lorem",
-    "mixin",
-    "handlebars helper",
-    "underscore mixin",
+    "docs",
+    "documentation",
+    "dummy",
+    "filler",
     "filter",
-    "template filter",
-    "swig filter",
+    "generate",
+    "generator",
+    "handlebars",
+    "helper",
+    "ipsum",
     "lodash",
+    "lorem",
+    "markdown",
+    "mixin",
+    "placeholder",
+    "swig",
+    "templates",
+    "text",
     "underscore",
-    "convenience methods"
-  ]
+    "util",
+    "verb"
+  ],
+  "devDependencies": {
+    "handlebars": "^2.0.0",
+    "should": "*",
+    "mocha": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  }
 }

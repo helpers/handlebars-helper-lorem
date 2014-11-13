@@ -1,5 +1,5 @@
 /*!
- * helper-lorem <https://github.com/jonschlinkert/helper-lorem>
+ * handlebars-helper-lorem <https://github.com/jonschlinkert/handlebars-helper-lorem>
  *
  * Copyright (c) 2014 Jon Schlinkert, contributors.
  * Licensed under the MIT License
@@ -9,7 +9,7 @@
 
 var should = require('should');
 var handlebars = require('handlebars');
-var loremHelper = require('./');
+var loremHelper = require('..');
 
 
 describe('lorem', function () {

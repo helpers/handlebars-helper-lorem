@@ -1,6 +1,6 @@
 {
   "name": "handlebars-helper-lorem",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Handlebars template helper for generator lorem-ipsum placeholder text.",
   "homepage": "https://github.com/helpers/handlebars-helper-lorem",
   "author": {
